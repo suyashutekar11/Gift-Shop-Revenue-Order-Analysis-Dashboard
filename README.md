@@ -49,6 +49,7 @@ Customer_ID → Orders
 Product_ID → Orders
 
 📈 Key Dashboard Insights
+
 ⭐ 1. Revenue Insights
 Total Revenue: ₹13,33,246
 Highest revenue occasions: Anniversary, Raksha Bandhan, Holi
