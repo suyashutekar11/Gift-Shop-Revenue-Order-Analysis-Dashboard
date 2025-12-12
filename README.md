@@ -89,5 +89,10 @@ Screenshots:
 
 <img width="3463" height="2138" alt="image" src="https://github.com/user-attachments/assets/2023c500-afa0-41df-b5ad-ae542f4fbb49" />
 
+## 🚀 Live Dashboard Preview  
+📌 Click below to view the full PDF report:  
+👉 [Revenue & Order Analysis Report](https://github.com/suyashutekar11/Gift-Shop-Revenue-Order-Analysis-Dashboard/blob/main/Report%20of%20Revenue%20%26%20Order%20Analysis%20Dashboard%20for%20a%20Gift%20Shop.pdf)
+
+
 Conclusion
 This project demonstrates a complete analytics workflow—from data extraction and transformation to interactive visualization. It highlights how Excel can be used as a powerful BI tool to reveal insights that support better inventory planning, marketing decisions, delivery optimization, and customer engagement.
